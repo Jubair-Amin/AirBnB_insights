@@ -1,1 +1,1 @@
-Data visualization of airbnb data containing yearly demands, prices, reviews of listings using tableau
+Visualization of airbnb data containing yearly demands, prices, reviews of listings using tableau
