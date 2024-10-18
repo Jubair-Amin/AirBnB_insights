@@ -1,0 +1,1 @@
+This repository analyzes one year of Airbnb listing data to uncover patterns in pricing and reviews. It includes dashboards and visualizations to compare locations, host behaviors, and guest satisfaction ideal for those looking to understand market trends
